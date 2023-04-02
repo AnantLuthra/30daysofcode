@@ -4,7 +4,7 @@
 ---
 ## Daily progress 
 
-- Day 1 [🔗](./day%201/)
+- Day 1 [🔗](./day%201/) - Revised basic stuff functions, data types etc in C.
 - Day 2 [🔗]()
 - Day 3 [🔗]()
 - Day 4 [🔗]()
