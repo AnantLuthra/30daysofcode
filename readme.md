@@ -1,6 +1,6 @@
 # [30 days of code](https://twitter.com/anant_luthra_/status/1642538505040691200)
 
-## This repository coantins my each day progress of #30daysofcode and practice which I've done each day while following cs50x introductory course.
+## This repository contains my each day progress of #30daysofcode and practice which I've done each day while following cs50x introductory course.
 ---
 ## Daily progress 
 
