@@ -5,7 +5,7 @@
 ## Daily progress 
 
 - Day 1 [🔗](./day%201/) - Revised basic stuff functions, data types etc in C.
-- Day 2 [🔗](./day%202/) - revised while loop, do while loops.
+- Day 2 [🔗](./day%202/) - revised loops, [lower/upper conversion, implicit & explicit conversion] of characters. also how to make strings.
 - Day 3 [🔗]()
 - Day 4 [🔗]()
 - Day 5 [🔗]()
