@@ -8,7 +8,7 @@
 - Day 2 [🔗](./day%202/) - revised loops, [lower/upper conversion, implicit & explicit conversion] of characters. also how to make strings.
 - Day 3 [🔗](./day%203/) - Revised recursions, typdef function.
 - Day 4 [🔗](./day%204/) - Started solving sea waves(horizontal version) problem.
-- Day 5 [🔗](./day%205/) - Made basic structure to solve the sea waves problem.
+- Day 5 [🔗](./day%205/) - Solved sea waves(horizontal) problem given by Parampreet Singh [on twitter](https://twitter.com/Param3021/status/1643639610042617856).
 - Day 6 [🔗]()
 - Day 7 [🔗]()
 - Day 8 [🔗]()
