@@ -7,8 +7,8 @@
 - Day 1 [🔗](./day%201/) - Revised basic stuff functions, data types etc in C.
 - Day 2 [🔗](./day%202/) - revised loops, [lower/upper conversion, implicit & explicit conversion] of characters. also how to make strings.
 - Day 3 [🔗](./day%203/) - Revised recursions, typdef function.
-- Day 4 [🔗]()
-- Day 5 [🔗]()
+- Day 4 [🔗](./day%204/) - Started solving sea waves(horizontal version) problem.
+- Day 5 [🔗](./day%205/) - Made basic structure to solve the sea waves problem.
 - Day 6 [🔗]()
 - Day 7 [🔗]()
 - Day 8 [🔗]()
