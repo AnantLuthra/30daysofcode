@@ -10,7 +10,7 @@
 - Day 4 [🔗](./day%204/) - Started solving sea waves(horizontal version) problem.
 - Day 5 [🔗](./day%205/) - Solved sea waves(horizontal) problem given by Parampreet Singh [on twitter](https://twitter.com/Param3021/status/1643639610042617856).
 - Day 6 [🔗](./day%206/) - Revised pointers, and how strings our made through it.
-- Day 7 [🔗]()
+- Day 7 [🔗](./day%207/) - Revised memory allocation.
 - Day 8 [🔗]()
 - Day 9 [🔗]()
 - Day 10 [🔗]()
