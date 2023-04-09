@@ -11,7 +11,7 @@
 - Day 5 [🔗](./day%205/) - Solved sea waves(horizontal) problem given by Parampreet Singh [on twitter](https://twitter.com/Param3021/status/1643639610042617856).
 - Day 6 [🔗](./day%206/) - Revised pointers, and how strings our made through it.
 - Day 7 [🔗](./day%207/) - Revised memory allocation[dynamatically alloted integer array, taking intput(integer, string)].
-- Day 8 [🔗]()
+- Day 8 [🔗](./day%208/) - Started revising linked list.
 - Day 9 [🔗]()
 - Day 10 [🔗]()
 - Day 11 [🔗]()
