@@ -12,7 +12,7 @@
 - Day 6 [🔗](./day%206/) - Revised pointers, and how strings our made through it.
 - Day 7 [🔗](./day%207/) - Revised memory allocation[dynamatically alloted integer array, taking intput(integer, string)].
 - Day 8 [🔗](./day%208/) - Started revising linked list.
-- Day 9 [🔗]()
+- Day 9 [🔗](./day%209/) - Revised how to make linked list and how to print them.
 - Day 10 [🔗]()
 - Day 11 [🔗]()
 - Day 12 [🔗]()
