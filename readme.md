@@ -13,11 +13,7 @@
 - Day 7 [🔗](./day%207/) - Revised memory allocation[dynamatically alloted integer array, taking intput(integer, string)].
 - Day 8 [🔗](./day%208/) - Started revising linked list.
 - Day 9 [🔗](./day%209/) - Revised how to make linked list and how to print them.
-- Day 10 [🔗]()
-- Day 11 [🔗]()
-- Day 12 [🔗]()
-- Day 13 [🔗]()
-- Day 14 [🔗]()
+- Day 10-14 [🔗](./day%2010/) - Revised all stuff of week 5, completed pset5 of week 5.
 - Day 15 [🔗]()
 - Day 16 [🔗]()
 - Day 17 [🔗]()

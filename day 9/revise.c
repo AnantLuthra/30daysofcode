@@ -46,4 +46,12 @@ int main(void){
     for(node *n = list; n!=NULL; n = n->next){
         printf("Value is %i\n", n->number);
     }
+
+    // free linked list.
+    while(list!=NULL){
+        node *tmp = list->next;
+        free(list);
+        list = tmp;
+    }
+    
 }
