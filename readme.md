@@ -14,8 +14,8 @@
 - Day 8 [🔗](./day%208/) - Started revising linked list.
 - Day 9 [🔗](./day%209/) - Revised how to make linked list and how to print them.
 - Day 10-14 [🔗](./day%2010/) - Revised all stuff of week 5, completed pset5 of week 5.
-- Day 15 [🔗]()
-- Day 16 [🔗]()
+- Day 15 [🔗](./day%2015/) - Watched full lecture of week 6 of python.
+- Day 16 [🔗](./day%2016/) - Learned something new in for loop.
 - Day 17 [🔗]()
 - Day 18 [🔗]()
 - Day 19 [🔗]()
