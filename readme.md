@@ -16,7 +16,7 @@
 - Day 10-14 [🔗](./day%2010/) - Revised all stuff of week 5, completed pset5 of week 5.
 - Day 15 [🔗](./day%2015/) - Watched full lecture of week 6 of python.
 - Day 16 [🔗](./day%2016/) - Learned something new in for loop.
-- Day 17 [🔗]()
+- Day 17 [🔗](./day%2017/) - Today I solved lab 6, and three problems from pset6 of week 6 'python' from cs50x course.
 - Day 18 [🔗]()
 - Day 19 [🔗]()
 - Day 20 [🔗]()
