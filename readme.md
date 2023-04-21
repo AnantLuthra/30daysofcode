@@ -19,7 +19,7 @@
 - Day 17 [🔗](./day%2017/) - Today I solved lab 6, and three problems from pset6 of week 6 'python' from cs50x course.
 - Day 18 [🔗](./day%2018/) - Today I solved two remaining problems of week6 pset, and now week 6 is also compelted.
 - Day 19 [🔗](./day%2019/) - learnt more about reading and analyzing data from a csv file through python.
-- Day 20 [🔗]()
+- Day 20 [🔗](./day%2020/) - Learnt about SQL commands, functions, also(select, insert, update, delete) data.
 - Day 21 [🔗]()
 - Day 22 [🔗]()
 - Day 23 [🔗]()
