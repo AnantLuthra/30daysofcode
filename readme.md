@@ -20,9 +20,7 @@
 - Day 18 [🔗](./day%2018/) - Today I solved two remaining problems of week6 pset, and now week 6 is also compelted.
 - Day 19 [🔗](./day%2019/) - learnt more about reading and analyzing data from a csv file through python.
 - Day 20 [🔗](./day%2020/) - Learnt about SQL commands, functions, also(select, insert, update, delete) data.
-- Day 21 [🔗]()
-- Day 22 [🔗]()
-- Day 23 [🔗]()
+- Day 21-23 [🔗](./day%2021-23/) - Learnt about schemas of database, primary keys, foriegn keys and how we fetch data by nested queries with the help of foriegn keys.
 - Day 24 [🔗]()
 - Day 25 [🔗]()
 - Day 26 [🔗]()
