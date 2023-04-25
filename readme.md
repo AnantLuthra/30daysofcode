@@ -21,7 +21,7 @@
 - Day 19 [🔗](./day%2019/) - learnt more about reading and analyzing data from a csv file through python.
 - Day 20 [🔗](./day%2020/) - Learnt about SQL commands, functions, also(select, insert, update, delete) data.
 - Day 21-23 [🔗](./day%2021-23/) - Learnt about schemas of database, primary keys, foriegn keys and how we fetch data by nested queries with the help of foriegn keys.
-- Day 24 [🔗]()
+- Day 24 [🔗](./day%2024/) - Learnt about indexes in SQL.
 - Day 25 [🔗]()
 - Day 26 [🔗]()
 - Day 27 [🔗]()
