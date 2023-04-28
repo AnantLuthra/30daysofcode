@@ -23,7 +23,7 @@
 - Day 21-23 [🔗](./day%2021-23/) - Learnt about schemas of database, primary keys, foriegn keys and how we fetch data by nested queries with the help of foriegn keys.
 - Day 24 [🔗](./day%2024/) - Learnt about indexes in SQL.
 - Day 25-26 [🔗](./day%2025-26/) - Use SQL in python, Race conditions, SQL injection.
-- Day 27 [🔗]()
+- Day 27 [🔗](./day%2027/) - Solved Lab 7 of week 7.
 - Day 28 [🔗]()
 - Day 29 [🔗]()
 - Day 30 [🔗]()
