@@ -24,6 +24,6 @@
 - Day 24 [🔗](./day%2024/) - Learnt about indexes in SQL.
 - Day 25-26 [🔗](./day%2025-26/) - Use SQL in python, Race conditions, SQL injection.
 - Day 27 [🔗](./day%2027/) - Solved Lab 7 of week 7.
-- Day 28 [🔗]()
+- Day 28 [🔗](./day%2028/) - Solved 9 question from pset7 "Movies" of week 7 "SQL".
 - Day 29 [🔗]()
 - Day 30 [🔗]()
