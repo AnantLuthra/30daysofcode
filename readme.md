@@ -25,5 +25,5 @@
 - Day 25-26 [🔗](./day%2025-26/) - Use SQL in python, Race conditions, SQL injection.
 - Day 27 [🔗](./day%2027/) - Solved Lab 7 of week 7.
 - Day 28 [🔗](./day%2028/) - Solved 9 question from pset7 "Movies" of week 7 "SQL".
-- Day 29 [🔗]()
+- Day 29 [🔗](https://twitter.com/anant_luthra_/status/1652729646520344576) - Completed movies problem set of week 7 SQL in cs50x course.
 - Day 30 [🔗]()
