@@ -26,4 +26,4 @@
 - Day 27 [🔗](./day%2027/) - Solved Lab 7 of week 7.
 - Day 28 [🔗](./day%2028/) - Solved 9 question from pset7 "Movies" of week 7 "SQL".
 - Day 29 [🔗](https://twitter.com/anant_luthra_/status/1652729646520344576) - Completed movies problem set of week 7 SQL in cs50x course.
-- Day 30 [🔗]()
+- Day 30 [🔗](https://twitter.com/anant_luthra_/status/1653101284147499008) - Solved fiftyville last problem of week 7 on day 30, also next day I solved it completely [link](https://twitter.com/anant_luthra_/status/1653467684221353989)
